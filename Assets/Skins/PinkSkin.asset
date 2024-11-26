@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 383e4daa23cd85340ae7d1bf35daac8c, type: 3}
+  m_Name: PinkSkin
+  m_EditorClassIdentifier: 
+  skinID: 3
+  skinSprite: {fileID: 21300000, guid: 266cb806ec55d2348a203d26e10eab93, type: 3}
+  skinPrice: 200
